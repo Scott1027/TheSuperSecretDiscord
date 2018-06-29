@@ -1,0 +1,30 @@
+{
+    "helpMsg1": [
+        "**Prefix is ~**",
+        "```Moderation Commands```",
+        "**ban** - Bans the mentioned user.",
+        "**kick** - Kicks the mentioned user",
+        "**warn** - Warns a user",
+        "**purge** - Deletes history of messages."
+      ],
+    "helpMsg2": [
+      "```Useful Commands```",
+      "**ping** - Pings the bot",
+      "**uptime** - Shows how long the bot has been running for",
+      "**suggest** - Suggest something to the developer to add to the bot",
+	  "**avatar** - Mention a User to bring up their avatar.",
+	  "**help** - Displays these messages.",
+	  "**leaderboard** - Displays a leaderboard of the top most people that have invited people.",
+	  "**prefix** - Displays the servers current prefix."
+      ],
+	  "helpMsg3": [
+      "```High Rank Commands```",
+      "**setgame** - Sets the bots playing status.",
+	  "**setstatus** - Sets the bots Offline,Online,dnd,Idle status."
+	  ],
+    "helpMsg4": [
+      "```Bot Owner Commands```",
+      "**exec** - Executes a process command",
+      "**reload** - Reloads a command"
+    ]
+}
